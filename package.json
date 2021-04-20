@@ -1,9 +1,9 @@
 {
-  "name": "@cocreate/boilerplate",
+  "name": "@cocreate/prism",
   "version": "1.0.2",
-  "description": "A simple boilerplate component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
+  "description": "A simple prism component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
-    "boilerplate",
+    "prism",
     "cocreate",
     "low-code-framework",
     "no-code-framework",
@@ -20,7 +20,9 @@
     "html5-framework",
     "javascript-framework"
   ],
-  "publishConfig": { "access": "public" },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "start": "npx webpack --config webpack.config.js",
     "build": "NODE_ENV=production npx webpack --config webpack.config.js",
@@ -29,14 +31,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoCreate-app/CoCreate-boilerplate.git"
+    "url": "git+https://github.com/CoCreate-app/CoCreate-prism.git"
   },
   "author": "CoCreate LLC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CoCreate-app/CoCreate-boilerplate/issues"
+    "url": "https://github.com/CoCreate-app/CoCreate-prism/issues"
   },
-  "homepage": "https://cocreate.app/docs/boilerplate",
+  "homepage": "https://cocreate.app/docs/prism",
   "funding": {
     "type": "GitHub Sponsors ❤",
     "url": "https://github.com/sponsors/CoCreate-app"
@@ -47,14 +49,17 @@
     "@babel/preset-env": "^7.9.6",
     "babel-loader": "^8.1.0",
     "clean-webpack-plugin": "^3.0.0",
+    "file-loader": "^6.2.0",
     "html-webpack-plugin": "^4.5.0",
+    "style-loader": "^2.0.0",
+    "terser-webpack-plugin": "^5.1.1",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "webpack": "^5.24.4",
     "webpack-cli": "^4.5.0",
-    "webpack-log": "^3.0.1",
-    "file-loader": "^6.2.0",
-    "style-loader": "^2.0.0",
-    "terser-webpack-plugin": "^5.1.1"
+    "webpack-log": "^3.0.1"
   },
-  "dependencies": { "@cocreate/docs": "^1.0.3" }
+  "dependencies": {
+    "@cocreate/docs": "^1.0.3",
+    "prismjs": "^1.23.0"
+  }
 }
