@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/prism",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "A simple prism component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
     "prism",
@@ -60,6 +60,7 @@
   },
   "dependencies": {
     "@cocreate/docs": "^1.0.3",
+    "mini-css-extract-plugin": "^1.5.0",
     "prismjs": "^1.23.0"
   }
 }

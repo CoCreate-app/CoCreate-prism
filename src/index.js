@@ -1,10 +1,11 @@
-import prism from '@prismjs'
+import Prism from 'prismjs'
+import 'prismjs/themes/prism.css'
 
 const CoCreatePrism = {
   
 	
 }
 
-CoCreatePrism.init();
+// CoCreatePrism.init();
 
 export default CoCreatePrism;
