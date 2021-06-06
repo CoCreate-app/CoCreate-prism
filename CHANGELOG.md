@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.0.1...v1.0.2) (2021-06-06)
+
+
+### Bug Fixes
+
+* update script tag ([1ced291](https://github.com/CoCreate-app/CoCreate-prism/commit/1ced291bdf5a105aee604f3fc03d90420bb36e77))
+
 ## [1.0.1](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.0.0...v1.0.1) (2021-06-06)
 
 
