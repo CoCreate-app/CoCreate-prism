@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.0.2...v1.0.3) (2021-06-17)
+
+
+### Bug Fixes
+
+* added header for seo ([a0095f7](https://github.com/CoCreate-app/CoCreate-prism/commit/a0095f7e90752dba695e07f4e6dcfc2c243d8e80))
+
 ## [1.0.2](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.0.1...v1.0.2) (2021-06-06)
 
 
