@@ -1,3 +1,11 @@
+## [1.0.10](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.0.9...v1.0.10) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([c16ab4d](https://github.com/CoCreate-app/CoCreate-prism/commit/c16ab4d477da9769cf262a3061f06e6a989aea04))
+* remove yarn.lock ([d3d84f2](https://github.com/CoCreate-app/CoCreate-prism/commit/d3d84f2c9e29c2018c753138e0bacadbf727baa9))
+
 ## [1.0.9](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.0.8...v1.0.9) (2021-07-10)
 
 
