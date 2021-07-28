@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.0.12...v1.1.0) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove data- from fetch, pass and filter ([8eaec14](https://github.com/CoCreate-app/CoCreate-prism/commit/8eaec14267b401c339a5e92cb02cf824e515dc5d))
+
+
+### Features
+
+* add new is{attribute} system and remove data- from attributtes ([6dfff43](https://github.com/CoCreate-app/CoCreate-prism/commit/6dfff4393943c12fae6c40da9b7c43e54f9f689b))
+
 ## [1.0.12](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.0.11...v1.0.12) (2021-07-17)
 
 
