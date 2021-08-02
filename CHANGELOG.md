@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.0...v1.1.1) (2021-08-02)
+
+
+### Bug Fixes
+
+* remove data- from attributes ([0a876de](https://github.com/CoCreate-app/CoCreate-prism/commit/0a876dee26b1e934c5afdce5dd1e92fba2b192a9))
+* update data-fullscreen to fullscreen ([29288f8](https://github.com/CoCreate-app/CoCreate-prism/commit/29288f84dfde82ba112a946faf926f4a10c362c9))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.0.12...v1.1.0) (2021-07-28)
 
 
