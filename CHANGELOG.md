@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.4...v1.1.5) (2021-08-22)
+
+
+### Bug Fixes
+
+* removed data- from main-content, clone, filter-value_type ([3d039a1](https://github.com/CoCreate-app/CoCreate-prism/commit/3d039a15a45b6f62095cd434985a7945379be4d6))
+
 ## [1.1.4](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.3...v1.1.4) (2021-08-22)
 
 
