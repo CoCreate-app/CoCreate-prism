@@ -1,3 +1,10 @@
+## [1.1.11](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.10...v1.1.11) (2021-09-09)
+
+
+### Bug Fixes
+
+* CoCreate.config directory, path, name and  public ([a5ce68b](https://github.com/CoCreate-app/CoCreate-prism/commit/a5ce68b53c678b519dec5ab2e6129097592b8cc1))
+
 ## [1.1.10](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.9...v1.1.10) (2021-09-08)
 
 
