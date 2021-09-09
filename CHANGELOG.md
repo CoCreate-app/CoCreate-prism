@@ -1,3 +1,10 @@
+## [1.1.13](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.12...v1.1.13) (2021-09-09)
+
+
+### Bug Fixes
+
+* ci docs ([f2900c3](https://github.com/CoCreate-app/CoCreate-prism/commit/f2900c3ca6f98dc7ca219a78e1a8b8a54f768804))
+
 ## [1.1.12](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.11...v1.1.12) (2021-09-09)
 
 
