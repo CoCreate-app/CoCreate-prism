@@ -1,3 +1,10 @@
+## [1.1.15](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.14...v1.1.15) (2021-09-12)
+
+
+### Bug Fixes
+
+* update sidenav to use resize and toggle ([8e2e9b8](https://github.com/CoCreate-app/CoCreate-prism/commit/8e2e9b8af7fa5d69f3175eafe8227e79ac693f84))
+
 ## [1.1.14](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.13...v1.1.14) (2021-09-09)
 
 
