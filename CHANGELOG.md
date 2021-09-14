@@ -1,3 +1,10 @@
+## [1.1.17](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.16...v1.1.17) (2021-09-14)
+
+
+### Bug Fixes
+
+* add cocreate.app to domains ([9062796](https://github.com/CoCreate-app/CoCreate-prism/commit/906279640d4ed9820c7a284ea98efaba1fd07882))
+
 ## [1.1.16](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.15...v1.1.16) (2021-09-13)
 
 
