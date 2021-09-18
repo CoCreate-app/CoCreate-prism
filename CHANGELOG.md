@@ -1,3 +1,10 @@
+## [1.1.19](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.18...v1.1.19) (2021-09-18)
+
+
+### Bug Fixes
+
+* CoCreate.config ([c218ea7](https://github.com/CoCreate-app/CoCreate-prism/commit/c218ea7d2838cea84d1c23838c32d2eb1c748369))
+
 ## [1.1.18](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.17...v1.1.18) (2021-09-16)
 
 
