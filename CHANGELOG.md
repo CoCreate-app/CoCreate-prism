@@ -1,3 +1,10 @@
+## [1.1.32](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.31...v1.1.32) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([c80f741](https://github.com/CoCreate-app/CoCreate-prism/commit/c80f74185c2b2e096e438a053b5f227fbc3ee868))
+
 ## [1.1.31](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.30...v1.1.31) (2021-10-15)
 
 
