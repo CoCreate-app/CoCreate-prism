@@ -1,3 +1,10 @@
+## [1.1.47](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.46...v1.1.47) (2021-11-26)
+
+
+### Bug Fixes
+
+* docs sidenav width ([c1331f2](https://github.com/CoCreate-app/CoCreate-prism/commit/c1331f243ef42f43926a040477db189bf869227f))
+
 ## [1.1.46](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.45...v1.1.46) (2021-11-26)
 
 
