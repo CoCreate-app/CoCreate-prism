@@ -1,3 +1,10 @@
+## [1.1.53](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.52...v1.1.53) (2022-01-01)
+
+
+### Bug Fixes
+
+* get-value attribute value now supports a selector added # to all values currently in get-value attributes ([3592ce1](https://github.com/CoCreate-app/CoCreate-prism/commit/3592ce1c12ad54a529e7b3a60f005b8760dc17c3))
+
 ## [1.1.52](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.51...v1.1.52) (2021-12-15)
 
 
