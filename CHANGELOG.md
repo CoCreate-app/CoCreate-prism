@@ -1,3 +1,10 @@
+## [1.1.60](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.59...v1.1.60) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([7c0db08](https://github.com/CoCreate-app/CoCreate-prism/commit/7c0db085fd19855b552ed3ca9606f57e67efe98a))
+
 ## [1.1.59](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.58...v1.1.59) (2022-02-24)
 
 
