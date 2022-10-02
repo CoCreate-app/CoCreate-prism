@@ -1,3 +1,10 @@
+## [1.1.72](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.71...v1.1.72) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump @cocreate/hosting and @cocreate/socket-client ([574412a](https://github.com/CoCreate-app/CoCreate-prism/commit/574412a3c992e44160aea97127a3bfb854df5c53))
+
 ## [1.1.71](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.70...v1.1.71) (2022-10-01)
 
 
