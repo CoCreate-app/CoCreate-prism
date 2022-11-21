@@ -1,3 +1,10 @@
+## [1.1.76](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.75...v1.1.76) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([cdab2e1](https://github.com/CoCreate-app/CoCreate-prism/commit/cdab2e19ca443665476fe1561b20d6ed83abadd1))
+
 ## [1.1.75](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.74...v1.1.75) (2022-11-21)
 
 
