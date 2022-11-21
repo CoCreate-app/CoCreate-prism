@@ -10,7 +10,7 @@ module.exports = {
             "collection": "files",
             "document_id": "6143fca8829b690010a5f33a",
             "key": "src",
-            "data": {
+            "document": {
                 "name": "index.html",
                 "path": "/docs/prism/index.html",
                 "domains": [
