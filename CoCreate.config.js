@@ -8,11 +8,11 @@ module.exports = {
         {
             "entry": "./docs/index.html",
             "collection": "files",
-            "document_id": "6143fca8829b690010a5f33a",
-            "key": "src",
             "document": {
+                "_id": "6143fca8829b690010a5f33a",
                 "name": "index.html",
                 "path": "/docs/prism/index.html",
+                "src": "{{source}}",
                 "domains": [
                     "*",
                     "general.cocreate.app"
