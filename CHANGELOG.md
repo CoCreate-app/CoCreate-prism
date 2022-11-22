@@ -1,3 +1,11 @@
+## [1.1.78](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.77...v1.1.78) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([768add9](https://github.com/CoCreate-app/CoCreate-prism/commit/768add983a629175330ce6e3d94f9eaf849cd405))
+* workflow docs ([e2282b9](https://github.com/CoCreate-app/CoCreate-prism/commit/e2282b945dedb344b1b75017c3533ad93e4ca1f4))
+
 ## [1.1.77](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.76...v1.1.77) (2022-11-21)
 
 
