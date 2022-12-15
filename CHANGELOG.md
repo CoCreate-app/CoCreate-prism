@@ -1,3 +1,10 @@
+## [1.1.96](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.95...v1.1.96) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([23af3b9](https://github.com/CoCreate-app/CoCreate-prism/commit/23af3b9296de471834abdf5cc6be59986042b530))
+
 ## [1.1.95](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.94...v1.1.95) (2022-12-13)
 
 
