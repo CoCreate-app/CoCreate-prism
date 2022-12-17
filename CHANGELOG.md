@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.96...v1.2.0) (2022-12-17)
+
+
+### Features
+
+* highlightText and highlightElement functions ([e740886](https://github.com/CoCreate-app/CoCreate-prism/commit/e7408868d51f8be5ef88c681fd0e7450ebcfe324))
+
 ## [1.1.96](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.1.95...v1.1.96) (2022-12-15)
 
 
