@@ -1,3 +1,10 @@
+## [1.2.9](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.2.8...v1.2.9) (2022-12-30)
+
+
+### Bug Fixes
+
+* update config sources to use template  braces with entry on src ([bd23a80](https://github.com/CoCreate-app/CoCreate-prism/commit/bd23a800c8c2f646458a9ba6dbb999bcbf83a126))
+
 ## [1.2.8](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.2.7...v1.2.8) (2022-12-29)
 
 
