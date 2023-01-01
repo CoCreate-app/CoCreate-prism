@@ -1,3 +1,10 @@
+## [1.2.11](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.2.10...v1.2.11) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([2db92d8](https://github.com/CoCreate-app/CoCreate-prism/commit/2db92d84f5d39a096925cd3d40a0ffd5e0360921))
+
 ## [1.2.10](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.2.9...v1.2.10) (2022-12-31)
 
 
