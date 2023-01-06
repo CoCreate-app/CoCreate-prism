@@ -1,3 +1,11 @@
+## [1.2.13](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.2.12...v1.2.13) (2023-01-06)
+
+
+### Bug Fixes
+
+* bump dependencies, worklow [@v3](https://github.com/v3) ([21da819](https://github.com/CoCreate-app/CoCreate-prism/commit/21da819ad7d44aa0128c92fd30788af6eb1bf616))
+* edit in github btn styles ([8cc3c97](https://github.com/CoCreate-app/CoCreate-prism/commit/8cc3c974d76dc969e9dca22b1e3e468f0ec0f144))
+
 ## [1.2.12](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.2.11...v1.2.12) (2023-01-05)
 
 
