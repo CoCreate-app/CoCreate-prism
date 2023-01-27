@@ -1,3 +1,10 @@
+## [1.2.17](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.2.16...v1.2.17) (2023-01-27)
+
+
+### Bug Fixes
+
+* bump dependencies ([cc226ca](https://github.com/CoCreate-app/CoCreate-prism/commit/cc226ca2a1f78f172bfe288070a3c36b4bcb3abd))
+
 ## [1.2.16](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.2.15...v1.2.16) (2023-01-13)
 
 
