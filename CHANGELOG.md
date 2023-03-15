@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.2.22...v1.3.0) (2023-03-15)
+
+
+### Features
+
+* suppports changing theme using attribute theme ([43ef248](https://github.com/CoCreate-app/CoCreate-prism/commit/43ef24867c0daa166c01bf4dc93e69b836279c93))
+
 ## [1.2.22](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.2.21...v1.2.22) (2023-02-01)
 
 
