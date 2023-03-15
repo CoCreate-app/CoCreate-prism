@@ -1,0 +1,122 @@
+/**
+ * prism.js tomorrow night eighties for JavaScript, CoffeeScript, CSS and HTML
+ * Based on https://github.com/chriskempson/tomorrow-theme
+ * @author Rose Pritchard
+ */
+
+ [theme='tomorrow'] code[class*="language-"],
+pre[class*="language-"][theme='tomorrow'] {
+	color: #ccc;
+	background: none;
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+}
+
+[theme='tomorrow']:not(pre) > code[class*="language-"],
+pre[class*="language-"][theme='tomorrow'] {
+	background: #2d2d2d;
+}
+
+/* Inline code */
+[theme='tomorrow']:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+[theme='tomorrow'] .token.comment,
+[theme='tomorrow'] .token.block-comment,
+[theme='tomorrow'] .token.prolog,
+[theme='tomorrow'] .token.doctype,
+[theme='tomorrow'] .token.cdata {
+	color: #999;
+}
+
+[theme='tomorrow'] .token.punctuation {
+	color: #ccc;
+}
+
+[theme='tomorrow'] .token.tag,
+[theme='tomorrow'] .token.attr-name,
+[theme='tomorrow'] .token.namespace,
+[theme='tomorrow'] .token.deleted {
+	color: #e2777a;
+}
+
+[theme='tomorrow'] .token.function-name {
+	color: #6196cc;
+}
+
+[theme='tomorrow'] .token.boolean,
+[theme='tomorrow'] .token.number,
+[theme='tomorrow'] .token.function {
+	color: #f08d49;
+}
+
+[theme='tomorrow'] .token.property,
+[theme='tomorrow'] .token.class-name,
+[theme='tomorrow'] .token.constant,
+[theme='tomorrow'] .token.symbol {
+	color: #f8c555;
+}
+
+[theme='tomorrow'] .token.selector,
+[theme='tomorrow'] .token.important,
+[theme='tomorrow'] .token.atrule,
+[theme='tomorrow'] .token.keyword,
+[theme='tomorrow'] .token.builtin {
+	color: #cc99cd;
+}
+
+[theme='tomorrow'] .token.string,
+[theme='tomorrow'] .token.char,
+[theme='tomorrow'] .token.attr-value,
+[theme='tomorrow'] .token.regex,
+[theme='tomorrow'] .token.variable {
+	color: #7ec699;
+}
+
+[theme='tomorrow'] .token.operator,
+[theme='tomorrow'] .token.entity,
+[theme='tomorrow'] .token.url {
+	color: #67cdcc;
+}
+
+[theme='tomorrow'] .token.important,
+[theme='tomorrow'] .token.bold {
+	font-weight: bold;
+}
+[theme='tomorrow'] .token.italic {
+	font-style: italic;
+}
+
+[theme='tomorrow'] .token.entity {
+	cursor: help;
+}
+
+[theme='tomorrow'] .token.inserted {
+	color: green;
+}
