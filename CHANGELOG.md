@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.3.0...v1.4.0) (2023-03-16)
+
+
+### Features
+
+* replaced get-value and set-value with a super charged version of CoCreate-events ([733256e](https://github.com/CoCreate-app/CoCreate-prism/commit/733256e960455f0fde0f33c042b21a712c9ee238))
+
 # [1.3.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.2.22...v1.3.0) (2023-03-15)
 
 
