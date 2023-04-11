@@ -1,3 +1,10 @@
+## [1.4.5](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.4.4...v1.4.5) (2023-04-11)
+
+
+### Bug Fixes
+
+*  bump [@cocreate](https://github.com/cocreate) dependencies ([77f88c4](https://github.com/CoCreate-app/CoCreate-prism/commit/77f88c4e8e1a3da4a15a83382683b4c72b6d55b2))
+
 ## [1.4.4](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.4.3...v1.4.4) (2023-04-11)
 
 
