@@ -1,3 +1,10 @@
+## [1.4.4](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.4.3...v1.4.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([d1a7c52](https://github.com/CoCreate-app/CoCreate-prism/commit/d1a7c52fcb1e25d3f4bdf166140a816f9ac60ce1))
+
 ## [1.4.3](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.4.2...v1.4.3) (2023-03-30)
 
 
