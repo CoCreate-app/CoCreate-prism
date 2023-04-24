@@ -1,3 +1,10 @@
+## [1.5.3](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.2...v1.5.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* workflow node version updated  16 ([4edde0f](https://github.com/CoCreate-app/CoCreate-prism/commit/4edde0fda8a2b9a33b74bab53392afe1d7fe4ca4))
+
 ## [1.5.2](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.1...v1.5.2) (2023-04-24)
 
 
