@@ -1,3 +1,10 @@
+## [1.5.4](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.3...v1.5.4) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([a951a60](https://github.com/CoCreate-app/CoCreate-prism/commit/a951a6001db8f07ad17c49a825c3aa47e1d38448))
+
 ## [1.5.3](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.2...v1.5.3) (2023-04-24)
 
 
