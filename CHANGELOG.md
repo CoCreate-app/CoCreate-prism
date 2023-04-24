@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.4.6...v1.5.0) (2023-04-24)
+
+
+### Features
+
+* added pwa manifest ([f681d0d](https://github.com/CoCreate-app/CoCreate-prism/commit/f681d0d01503301bde942da01213c8202e4886ce))
+
 ## [1.4.6](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.4.5...v1.4.6) (2023-04-11)
 
 
