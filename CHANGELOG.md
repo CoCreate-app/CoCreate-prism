@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.0...v1.5.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* removed uglifyjs-webpack-plugin ([1830ed7](https://github.com/CoCreate-app/CoCreate-prism/commit/1830ed7540e05ad7dc9bac07462b357d1e90cb82))
+
 # [1.5.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.4.6...v1.5.0) (2023-04-24)
 
 
