@@ -1,3 +1,12 @@
+## [1.5.5](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.4...v1.5.5) (2023-04-30)
+
+
+### Bug Fixes
+
+* fullscreen target updated to fullscreen fullscreen-target ([c00e2f7](https://github.com/CoCreate-app/CoCreate-prism/commit/c00e2f72305f656257a9871d07d80f86bd8a8ec1))
+* package-lock.json and pnpm-lock.yaml added to .gitignore ([c5b15fa](https://github.com/CoCreate-app/CoCreate-prism/commit/c5b15fa6d030e402d4e8149873748b567bad6937))
+* removed toogle fullscreen icons. now using css content ([4e7225f](https://github.com/CoCreate-app/CoCreate-prism/commit/4e7225fce0a972d1c56451d92005d95e2e67b540))
+
 ## [1.5.4](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.3...v1.5.4) (2023-04-24)
 
 
