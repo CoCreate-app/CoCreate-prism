@@ -1,3 +1,10 @@
+## [1.5.7](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.6...v1.5.7) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([ad05b3e](https://github.com/CoCreate-app/CoCreate-prism/commit/ad05b3e76a5692abd979abc03e80c7dbb7175b3c))
+
 ## [1.5.6](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.5...v1.5.6) (2023-05-01)
 
 
