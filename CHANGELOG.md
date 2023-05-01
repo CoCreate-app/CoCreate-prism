@@ -1,3 +1,10 @@
+## [1.5.6](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.5...v1.5.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* replace fontawesome with svg ([6d33255](https://github.com/CoCreate-app/CoCreate-prism/commit/6d33255a970d366c5bf5c1423ecbd3aa20a19475))
+
 ## [1.5.5](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.4...v1.5.5) (2023-04-30)
 
 
