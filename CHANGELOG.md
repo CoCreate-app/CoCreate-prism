@@ -1,3 +1,10 @@
+## [1.5.9](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.8...v1.5.9) (2023-05-10)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([0a018e8](https://github.com/CoCreate-app/CoCreate-prism/commit/0a018e8c0720c2aa8b5ca7474d7f372a89c6c914))
+
 ## [1.5.8](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.7...v1.5.8) (2023-05-06)
 
 
