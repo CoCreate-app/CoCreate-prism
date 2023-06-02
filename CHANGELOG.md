@@ -1,3 +1,10 @@
+## [1.5.12](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.11...v1.5.12) (2023-06-02)
+
+
+### Bug Fixes
+
+* format demo html ([3e58b65](https://github.com/CoCreate-app/CoCreate-prism/commit/3e58b65426e0756c30ee89b7343adb69bcb0f55b))
+
 ## [1.5.11](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.10...v1.5.11) (2023-05-21)
 
 
