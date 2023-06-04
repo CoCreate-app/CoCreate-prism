@@ -1,3 +1,11 @@
+## [1.5.14](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.13...v1.5.14) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([470d26a](https://github.com/CoCreate-app/CoCreate-prism/commit/470d26ac0337ffc02cfdb6d1f45bdf4e26f78f98))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([b9c4a47](https://github.com/CoCreate-app/CoCreate-prism/commit/b9c4a470b9fc4949ffedb8d4e9e1da32cd0a88c9))
+
 ## [1.5.13](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.12...v1.5.13) (2023-06-04)
 
 
