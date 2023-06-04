@@ -1,3 +1,10 @@
+## [1.5.13](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.12...v1.5.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([eec122f](https://github.com/CoCreate-app/CoCreate-prism/commit/eec122ff13216bc91c04b51a604992e3529c3488))
+
 ## [1.5.12](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.11...v1.5.12) (2023-06-02)
 
 
