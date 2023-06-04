@@ -1,3 +1,10 @@
+## [1.5.15](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.14...v1.5.15) (2023-06-04)
+
+
+### Bug Fixes
+
+* Refactor CoCreate.config.js to remove hard-coded credentials ([4c428b9](https://github.com/CoCreate-app/CoCreate-prism/commit/4c428b9aff45afad96dceeb5027b82ef7385da81))
+
 ## [1.5.14](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.13...v1.5.14) (2023-06-04)
 
 
