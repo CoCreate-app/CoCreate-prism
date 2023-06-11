@@ -1,3 +1,10 @@
+## [1.5.23](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.22...v1.5.23) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([4089f91](https://github.com/CoCreate-app/CoCreate-prism/commit/4089f919acb9ebc528ad618ffb12defd47ffda07))
+
 ## [1.5.22](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.21...v1.5.22) (2023-06-11)
 
 
