@@ -1,3 +1,10 @@
+## [1.5.21](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.20...v1.5.21) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([5fc3316](https://github.com/CoCreate-app/CoCreate-prism/commit/5fc33169be6467d72a10fdbbb524d43e3fb4a63a))
+
 ## [1.5.20](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.19...v1.5.20) (2023-06-11)
 
 
