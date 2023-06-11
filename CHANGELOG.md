@@ -1,3 +1,10 @@
+## [1.5.18](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.17...v1.5.18) (2023-06-11)
+
+
+### Bug Fixes
+
+* renamed hosts to host. the value can be a string or an array of strings ([fc4a77a](https://github.com/CoCreate-app/CoCreate-prism/commit/fc4a77ad4db554f81d86b793bdec3a41c3eeb28a))
+
 ## [1.5.17](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.16...v1.5.17) (2023-06-10)
 
 
