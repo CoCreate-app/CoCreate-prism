@@ -4,8 +4,8 @@ module.exports = {
     "host": "",
     "sources": [
         {
-            "collection": "files",
-            "document": {
+            "array": "files",
+            "object": {
                 "_id": "6143fca8829b690010a5f33a",
                 "name": "index.html",
                 "path": "/docs/prism/index.html",
