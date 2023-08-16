@@ -1,3 +1,17 @@
+# [1.6.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.29...v1.6.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([63715c6](https://github.com/CoCreate-app/CoCreate-prism/commit/63715c6bfe95a809f6bdfcc52bf520bbc7fc7100))
+* replace -target -selector ([1c557ad](https://github.com/CoCreate-app/CoCreate-prism/commit/1c557adbeb269d1eaeea1853023a287b12136b9a))
+* webpack.config and package.json make use of mode=production instead of process.env ([a9fffd3](https://github.com/CoCreate-app/CoCreate-prism/commit/a9fffd3cf37de8ff510b73142456248701dc952a))
+
+
+### Features
+
+* name attribute and variable renamed to key ([9592ce2](https://github.com/CoCreate-app/CoCreate-prism/commit/9592ce2e1bfce6b39ddaa27acdcd91895180c357))
+
 ## [1.5.29](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.5.28...v1.5.29) (2023-06-14)
 
 
