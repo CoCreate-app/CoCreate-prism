@@ -58,7 +58,7 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@cocreate/api": "^1.10.31",
+    "@cocreate/api": "^1.11.0",
     "mini-css-extract-plugin": "^1.5.0",
     "prismjs": "^1.23.0"
   }
