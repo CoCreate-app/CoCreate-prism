@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.7.0...v1.7.1) (2023-08-18)
+
+
+### Bug Fixes
+
+* bump prism to its latest version ([d1b3179](https://github.com/CoCreate-app/CoCreate-prism/commit/d1b31795a2ddb7c6954cf4865264224a43ee4cb9))
+
 # [1.7.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.6.0...v1.7.0) (2023-08-17)
 
 
