@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.7.2...v1.8.0) (2023-08-21)
+
+
+### Features
+
+* Update cocreate dependencies for the latest features and bug fixes ([dc399b0](https://github.com/CoCreate-app/CoCreate-prism/commit/dc399b0b2d3da1b11e3008e7453fecf25ab78d8f))
+
 ## [1.7.2](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.7.1...v1.7.2) (2023-08-21)
 
 
