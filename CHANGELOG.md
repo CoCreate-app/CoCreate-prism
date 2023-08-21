@@ -1,3 +1,12 @@
+## [1.7.2](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.7.1...v1.7.2) (2023-08-21)
+
+
+### Bug Fixes
+
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([0accbbe](https://github.com/CoCreate-app/CoCreate-prism/commit/0accbbefee7228cffa641925c2b580f334ccfe8e))
+* replace cdn with /dist ([2fc75e6](https://github.com/CoCreate-app/CoCreate-prism/commit/2fc75e638f1cb46d3de403084f4279ec46bd6990))
+* update file uploader ([d920127](https://github.com/CoCreate-app/CoCreate-prism/commit/d920127b9e6a0934c82433bbd75cd6c3467bad44))
+
 ## [1.7.1](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.7.0...v1.7.1) (2023-08-18)
 
 
