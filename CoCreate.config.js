@@ -8,17 +8,16 @@ module.exports = {
             "object": {
                 "_id": "6143fca8829b690010a5f33a",
                 "name": "index.html",
-                "path": "/docs/prism/index.html",
+                "path": "/docs/prism",
+                "pathname": "/docs/prism/index.html",
                 "src": "{{./docs/index.html}}",
                 "host": [
                     "*",
                     "general.cocreate.app"
                 ],
-                "directory": "/docs/prism",
-                "parentDirectory": "{{parentDirectory}}",
+                "directory": "prism",
                 "content-type": "{{content-type}}",
-                "public": "true",
-                "website_id": "644d4bff8036fb9d1d1fd69c"
+                "public": "true"
             }
         }
     ]
