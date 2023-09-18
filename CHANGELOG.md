@@ -1,3 +1,11 @@
+## [1.8.2](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.8.1...v1.8.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([1b4acdd](https://github.com/CoCreate-app/CoCreate-prism/commit/1b4acddb304bf3ebf0704c876f7732bdc460814f))
+* Update CoCreate depndencies to latest versions ([b50c11e](https://github.com/CoCreate-app/CoCreate-prism/commit/b50c11eb1315909683bfcc1d80914ff7697d34ce))
+
 ## [1.8.1](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.8.0...v1.8.1) (2023-08-21)
 
 
