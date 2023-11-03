@@ -1,3 +1,10 @@
+## [1.8.3](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.8.2...v1.8.3) (2023-11-03)
+
+
+### Bug Fixes
+
+* favicon.ico path ([d3c1e28](https://github.com/CoCreate-app/CoCreate-prism/commit/d3c1e28d8443da5ef78911da4400e9cfd12f1d0b))
+
 ## [1.8.2](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.8.1...v1.8.2) (2023-09-18)
 
 
