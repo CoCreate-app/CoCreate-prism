@@ -12,8 +12,7 @@ module.exports = {
                 "pathname": "/docs/prism/index.html",
                 "src": "{{./docs/index.html}}",
                 "host": [
-                    "*",
-                    "general.cocreate.app"
+                    "*"
                 ],
                 "directory": "prism",
                 "content-type": "{{content-type}}",
