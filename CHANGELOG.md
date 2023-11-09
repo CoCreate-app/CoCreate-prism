@@ -1,3 +1,11 @@
+## [1.8.4](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.8.3...v1.8.4) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([cc4a0db](https://github.com/CoCreate-app/CoCreate-prism/commit/cc4a0db0d820402a8d872b3232770b27be2ef857))
+* update host ([5e60036](https://github.com/CoCreate-app/CoCreate-prism/commit/5e6003654c628929a5c0c71845d3b88c632c3681))
+
 ## [1.8.3](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.8.2...v1.8.3) (2023-11-03)
 
 
