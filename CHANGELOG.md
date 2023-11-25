@@ -1,3 +1,15 @@
+# [1.10.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.9.0...v1.10.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([130f9d6](https://github.com/CoCreate-app/CoCreate-prism/commit/130f9d6a601b1c463872fd8d8b2bb47262af2387))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([d7f678c](https://github.com/CoCreate-app/CoCreate-prism/commit/d7f678c2da7b0f7e656aa1f4d2296a6a415fc372))
+
 # [1.9.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.8.5...v1.9.0) (2023-11-19)
 
 
