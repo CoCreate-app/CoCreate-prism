@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.10.0...v1.11.0) (2023-11-25)
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([9bed19a](https://github.com/CoCreate-app/CoCreate-prism/commit/9bed19acfabe6a89e5e9725ab0b1ac613d925403))
+
 # [1.10.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.9.0...v1.10.0) (2023-11-25)
 
 
