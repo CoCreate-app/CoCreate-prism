@@ -1,3 +1,10 @@
+## [1.11.1](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.11.0...v1.11.1) (2024-02-05)
+
+
+### Bug Fixes
+
+* Removed https://cdn.cocreate.app/latest/CoCreate.min.css ([ddb05d5](https://github.com/CoCreate-app/CoCreate-prism/commit/ddb05d57cdf57337decc3795b9c47f9c19602e69))
+
 # [1.11.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.10.0...v1.11.0) (2023-11-25)
 
 
