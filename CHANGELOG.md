@@ -1,3 +1,11 @@
+## [1.11.3](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.11.2...v1.11.3) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([586b518](https://github.com/CoCreate-app/CoCreate-prism/commit/586b5187c1f63d4227cd93d549567bda50438a6f))
+* svg icon class ([e5280d0](https://github.com/CoCreate-app/CoCreate-prism/commit/e5280d0d6792a50498eda805d82a0b3f6bfbd215))
+
 ## [1.11.2](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.11.1...v1.11.2) (2024-04-29)
 
 
