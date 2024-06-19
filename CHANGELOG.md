@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.11.3...v1.12.0) (2024-06-19)
+
+
+### Features
+
+* hightlightAll ([ebd7b33](https://github.com/CoCreate-app/CoCreate-prism/commit/ebd7b3303de5eabeaa3cb25ba572c961e5a05776))
+
 ## [1.11.3](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.11.2...v1.11.3) (2024-06-12)
 
 
