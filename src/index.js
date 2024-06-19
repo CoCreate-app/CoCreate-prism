@@ -1,4 +1,9 @@
-import {highlight, highlightElement, languages, hooks} from 'prismjs'
+import { highlight, highlightElement, highlightAll, languages, hooks } from 'prismjs'
+// import Prism from 'prismjs';
+// import 'prismjs/components/prism-javascript';
+// import 'prismjs/components/prism-html';
+// import 'prismjs/components/prism-css';
+
 import 'prismjs/components/prism-css-extras.js'
 import './themes/prism.css'
 import './themes/prism-tomorrow.css'
@@ -11,7 +16,7 @@ import './themes/prism-tomorrow.css'
 function highlightText(text, lang) {
     lang = lang.toLowerCase()
     let code = highlight(text, languages[lang], lang);
-    return code	
+    return code
 }
 
 // function highlightEl(element, async, callback) {
@@ -19,4 +24,4 @@ function highlightText(text, lang) {
 // }
 
 // CoCreatePrism.init();
-export default {highlightText, highlightElement, hooks};
+export default { highlightText, highlightElement, highlightAll, hooks };
