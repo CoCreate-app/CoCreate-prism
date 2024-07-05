@@ -12,6 +12,7 @@ import './themes/prism-tomorrow.css'
 // import 'prismjs/plugins/line-numbers/prism-line-numbers.js'
 // import 'prismjs/plugins/line-numbers/prism-line-numbers.css'
 
+import './index.css';
 
 function highlightText(text, lang) {
     lang = lang.toLowerCase()

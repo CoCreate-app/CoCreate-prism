@@ -1,0 +1,13 @@
+
+code[class*=language-],
+pre[class*=language-] {
+    color: inherit;
+    fill: inherit;
+}
+.language-css .token.string,
+.style .token.string,
+.token.entity,
+.token.operator,
+.token.url {
+    background: inherit;
+}
