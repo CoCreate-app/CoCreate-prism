@@ -1,3 +1,10 @@
+## [1.12.1](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.12.0...v1.12.1) (2024-08-24)
+
+
+### Bug Fixes
+
+* add css file to overwirite css that is not mediatheme friendly ([53eec1f](https://github.com/CoCreate-app/CoCreate-prism/commit/53eec1fa4c02247b943611cdb9db66b7fbf5f96e))
+
 # [1.12.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.11.3...v1.12.0) (2024-06-19)
 
 
