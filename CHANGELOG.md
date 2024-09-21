@@ -1,3 +1,16 @@
+# [1.13.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.12.1...v1.13.0) (2024-09-21)
+
+
+### Bug Fixes
+
+* add css to support dark theme ([0903fd7](https://github.com/CoCreate-app/CoCreate-prism/commit/0903fd7b34de612b7e85d75b5e45a365cbee5152))
+* observe pre[class*='language-'] to initialize ([9a35271](https://github.com/CoCreate-app/CoCreate-prism/commit/9a35271de230ec0ec20915a59e88bf8780c0910b))
+
+
+### Features
+
+* improved initializing and added observer ([6b09338](https://github.com/CoCreate-app/CoCreate-prism/commit/6b09338e3eb849ed0612b1198a77c4ccdeed4f94))
+
 ## [1.12.1](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.12.0...v1.12.1) (2024-08-24)
 
 
