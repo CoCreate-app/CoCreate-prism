@@ -11,3 +11,11 @@ pre[class*=language-] {
 .token.url {
     background: inherit;
 }
+
+@media (prefers-color-scheme:dark) {
+
+    code[class*=language-],
+    pre[class*=language-] {
+        background: #2d2d2d;    
+    }
+}
