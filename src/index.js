@@ -59,7 +59,7 @@ function highlightAll() {
 Observer.init({
     name: 'CoCreatePrismAddedNodes',
     observe: ['addedNodes'],
-    target: "pre[class*='language-'], code[class*='language-']",
+    selector: "pre[class*='language-'], code[class*='language-']",
     callback: function (mutation) {
         highlightElement(mutation.target);
     }
