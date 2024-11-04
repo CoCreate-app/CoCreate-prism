@@ -1,3 +1,18 @@
+# [1.14.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.13.0...v1.14.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* observe selector code[class*='language-'] ([baf569f](https://github.com/CoCreate-app/CoCreate-prism/commit/baf569fa8a11b5302d68e1bb9009aa300a227728))
+* observer taget has been renamed to selector ([59f8fa0](https://github.com/CoCreate-app/CoCreate-prism/commit/59f8fa0e7583e2d031b28b8b729a3f6a5c1e1b73))
+* pretier.config.js and file formating ([021655e](https://github.com/CoCreate-app/CoCreate-prism/commit/021655e34a35e686667b6508d589991122ac724c))
+
+
+### Features
+
+* add prettier.config.js and format files ([e5b4e62](https://github.com/CoCreate-app/CoCreate-prism/commit/e5b4e62cbc85f6be7b40e2e7b9327b87d3f93ebd))
+* add prettier.config.js and format files ([40dad39](https://github.com/CoCreate-app/CoCreate-prism/commit/40dad393feff8ba68265b2526ec368698a827b6a))
+
 # [1.13.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.12.1...v1.13.0) (2024-09-21)
 
 
