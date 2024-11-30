@@ -4,6 +4,7 @@ import Observer from "@cocreate/observer";
 // import 'prismjs/components/prism-javascript';
 // import 'prismjs/components/prism-html';
 // import 'prismjs/components/prism-css';
+// import "prismjs/components/prism-json";
 
 import "prismjs/components/prism-css-extras.js";
 import "./themes/prism.css";
@@ -30,10 +31,40 @@ function init(elements) {
 	else highlightAll();
 }
 
-function highlightText(text, lang) {
+function loadPrismLanguage(lang) {
+	// Map language to Prism component path (assumes you're using a CDN or module loader)
+	const componentPath = `https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-${lang}.min.js`;
+
+	return new Promise((resolve, reject) => {
+		// Dynamically load the script
+		const script = document.createElement("script");
+		script.src = componentPath;
+		script.onload = resolve;
+		script.onerror = () =>
+			reject(new Error(`Failed to load Prism language: ${lang}`));
+		document.head.appendChild(script);
+	});
+}
+
+async function highlightText(text, lang) {
 	lang = lang.toLowerCase();
-	let code = Prism.highlight(text, Prism.languages[lang], lang);
-	return code;
+
+	if (!Prism.languages[lang]) {
+		try {
+			await loadPrismLanguage(lang);
+		} catch (error) {
+			console.error(error);
+			return `Error: Language "${lang}" not supported.`;
+		}
+	}
+
+	try {
+		// Highlight the text using Prism.js
+		return Prism.highlight(text, Prism.languages[lang], lang);
+	} catch (error) {
+		console.error("Highlighting failed:", error);
+		return `Error: Unable to highlight text.`;
+	}
 }
 
 function highlightElement(element, async = false, callback = null) {
