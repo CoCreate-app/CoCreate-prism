@@ -1,18 +1,13 @@
 import Prism from "prismjs";
 import Observer from "@cocreate/observer";
 
-// import 'prismjs/components/prism-javascript';
-// import 'prismjs/components/prism-html';
-// import 'prismjs/components/prism-css';
-// import "prismjs/components/prism-json";
-
 import "prismjs/components/prism-css-extras.js";
 import "./themes/prism.css";
 import "./themes/prism-tomorrow.css";
-// import 'prismjs/plugins/inline-color/prism-inline-color.js'
-// import 'prismjs/plugins/inline-color/prism-inline-color.css'
-// import 'prismjs/plugins/line-numbers/prism-line-numbers.js'
-// import 'prismjs/plugins/line-numbers/prism-line-numbers.css'
+// import "prismjs/plugins/inline-color/prism-inline-color.js";
+// import "prismjs/plugins/inline-color/prism-inline-color.css";
+import "prismjs/plugins/line-numbers/prism-line-numbers.js";
+import "prismjs/plugins/line-numbers/prism-line-numbers.css";
 
 import "./index.css";
 
@@ -68,20 +63,35 @@ async function highlightText(text, lang) {
 }
 
 function highlightElement(element, async = false, callback = null) {
-	// Highlight the element with optional async and callback parameters
-	Prism.highlightElement(element, async, callback);
-
 	if (element) {
-		let themeEl = element.closest("pre");
-		if (themeEl) {
-			let theme = themeEl.getAttribute("theme");
+		let pre = element.closest("pre");
+		if (pre) {
+			let theme = pre.getAttribute("theme");
 			if (theme) {
 				// if (!theme && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-				themeEl.setAttribute("theme", theme);
+				pre.setAttribute("theme", theme);
 			}
+			let lineNumbers = pre.getAttribute("line-numbers");
+			if (
+				(lineNumbers && lineNumbers !== "false") ||
+				lineNumbers === ""
+			) {
+				pre.classList.add("line-numbers");
+			}
+			// pre.classList.add("line-numbers");
 		}
+
+		// Highlight the element with optional async and callback parameters
+		Prism.highlightElement(element, async, callback);
+		if (Prism.plugins.lineNumbers) {
+			Prism.plugins.lineNumbers.resize(element);
+		}
+
 		element.addEventListener("input", function (event) {
 			Prism.highlightElement(element, async, callback);
+			if (Prism.plugins.lineNumbers) {
+				Prism.plugins.lineNumbers.resize(element);
+			}
 		});
 	}
 }
