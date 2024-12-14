@@ -1,3 +1,16 @@
+# [1.15.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.14.0...v1.15.0) (2024-12-14)
+
+
+### Bug Fixes
+
+* apply theme if attribute exist ([4149cdf](https://github.com/CoCreate-app/CoCreate-prism/commit/4149cdf2401ba582746ccc23646cea9cc17e0289))
+* improved handling of line-numbers ([27ef9b0](https://github.com/CoCreate-app/CoCreate-prism/commit/27ef9b01bb9801081e6025c9d533cc0b4191bbb3))
+
+
+### Features
+
+* loadPrismLanguage dynamically load languages ([a9b93b1](https://github.com/CoCreate-app/CoCreate-prism/commit/a9b93b1c7beafe6a4dcafbb0332ef66facfc672f))
+
 # [1.14.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.13.0...v1.14.0) (2024-11-04)
 
 
