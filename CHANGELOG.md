@@ -1,3 +1,10 @@
+## [1.15.1](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.15.0...v1.15.1) (2025-04-11)
+
+
+### Bug Fixes
+
+* update observer observe param to type and and attributeName to attributeFilter ([6f42954](https://github.com/CoCreate-app/CoCreate-prism/commit/6f429544b56da6c16bec480c86d6187439d18732))
+
 # [1.15.0](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.14.0...v1.15.0) (2024-12-14)
 
 
