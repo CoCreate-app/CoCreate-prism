@@ -1,3 +1,13 @@
+## [1.15.2](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.15.1...v1.15.2) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([7462754](https://github.com/CoCreate-app/CoCreate-prism/commit/74627544d22263b78a1512d71da503c06955e732))
+* update query attributes ([0166ffa](https://github.com/CoCreate-app/CoCreate-prism/commit/0166ffa88f4213b9eda6532839809878e480fe19))
+* updated cocreate modules versions ([b6d8bd7](https://github.com/CoCreate-app/CoCreate-prism/commit/b6d8bd7b1bc44dc02c368e030867756726e2908c))
+* webpack.config and devdependencies ([9bb8b45](https://github.com/CoCreate-app/CoCreate-prism/commit/9bb8b454cf36675eaf9e48fe25eab0111e560ea5))
+
 ## [1.15.1](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.15.0...v1.15.1) (2025-04-11)
 
 
