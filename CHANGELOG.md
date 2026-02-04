@@ -1,3 +1,10 @@
+## [1.15.4](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.15.3...v1.15.4) (2026-02-04)
+
+
+### Bug Fixes
+
+* update worklow ([bd20c9c](https://github.com/CoCreate-app/CoCreate-prism/commit/bd20c9c38f0185d8c341cd37ef2d13672d271d1c))
+
 ## [1.15.3](https://github.com/CoCreate-app/CoCreate-prism/compare/v1.15.2...v1.15.3) (2025-05-01)
 
 
